@@ -1,6 +1,7 @@
 # MLPACK_for_MSVC
-The releases include MLPACK build using MSVC 2015. To build for other versions of MSVC, try the instructions below (keep in mind that older compilers may not work since MLPACK relies on some modern features)
 Files for building MLPACK and it's dependencies using the Microsoft Visual Studio Compiler.
+
+The releases include MLPACK build using MSVC 2015. To build for other versions of MSVC, try the instructions below (keep in mind that older compilers may not work since MLPACK relies on some modern features).
 Instructions:
 Build the following libraries:
   * OpenBLAS (optimized BLAS) (http://www.openblas.net/)
