@@ -1,4 +1,5 @@
 # mlpack_for_MSVC
+## *mlpack now officially supports MSVC [mlpack documentation](https://www.mlpack.org/doc/mlpack-3.2.2/doxygen/build_windows.html)*
 Files for building mlpack and it's dependencies using the Microsoft Visual Studio Compiler.
 
 The releases include mlpack build using MSVC 2015. To build for other versions of MSVC, try the instructions below (keep in mind that older compilers may not work since mlpack relies on some modern features).
